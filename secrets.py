@@ -1,0 +1,2 @@
+spotify_token = "BQBU-IiW4mt0YM4MVTAPuurbxWtNYFL_rJMIh7gQbW0wcI3zzEc2Cry5x2WV3YQRT7eD3__yBTR-U1yKfonpVRdsq5bRXSPAoOnoc1ca3tyxaB0QTW29X2VQvx2OI8X0K6KYIeD9EqZKHM-e-etxQFkS-cYrkOLfI9OffbrqqVQktE158KJQnGEgmOYvHSIg"
+spotify_user_id = "christine.kim45?si=aDpkTd9XRSCrVdt7dfDalw"
